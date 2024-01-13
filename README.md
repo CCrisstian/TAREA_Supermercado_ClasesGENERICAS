@@ -8,6 +8,7 @@ Entonces como requerimiento vamos a tener 4 clases de productos:
 - Limpieza
 - Lacteo
 - NoPerecible
+
 Todas tiene en común dos atributos el nombre (string) y precio (double) que deben heredar de la clase padre Producto, pero ademas cada una van a tener dos atributos propios adicionales, sus métodos getter y constructor para inicializar los 4 atributos (los 2 del padre y los 2 propios).
 
  Los atributos adicionales de cada clase se detalla en el siguiente diagrame de clase:
